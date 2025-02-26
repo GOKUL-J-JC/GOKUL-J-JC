@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @GOKUL-J-JC
+- 👋 Hi, I’m Gokul J
 - 👀 I’m interested in web design and front-end web development
 - 🌱 I’m currently learning reactjs 
-- 📫 How to reach me gokulj3567890@gmail.com
+- 📧 How to reach me gokul.j.it.mec@gmail.com
+- 🌎 Connect with me in https://www.linkedin.com/in/gokul-j-3641a7241
 <!--- 💞️ I’m looking to collaborate on ...--->
 <!---
 GOKUL-J-JC/GOKUL-J-JC is a ✨ special ✨ repository web its `README.md` (this file) appears on your GitHub profile.
